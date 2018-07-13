@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="edu.esne.basicsworkbench.test">
+
+    <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="26" />
+
+    <application android:debuggable="true" >
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.support.test.runner.AndroidJUnitRunner"
+                     android:targetPackage="edu.esne.basicsworkbench"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for edu.esne.basicsworkbench"/>
+</manifest>

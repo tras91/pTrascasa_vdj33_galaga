@@ -1,0 +1,7 @@
+/Users/trastrascasa/Dropbox/ESNE/TERCERO/DESARROLLO MOVIL/pTrascasa_vdj33_galaga/projects/android-studio-3/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/trastrascasa/Dropbox/ESNE/TERCERO/DESARROLLO MOVIL/pTrascasa_vdj33_galaga/projects/android-studio-3/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/basics-opengles.dir
+/Users/trastrascasa/Dropbox/ESNE/TERCERO/DESARROLLO MOVIL/pTrascasa_vdj33_galaga/projects/android-studio-3/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/native.dir
+/Users/trastrascasa/Dropbox/ESNE/TERCERO/DESARROLLO MOVIL/pTrascasa_vdj33_galaga/projects/android-studio-3/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+/Users/trastrascasa/Dropbox/ESNE/TERCERO/DESARROLLO MOVIL/pTrascasa_vdj33_galaga/projects/android-studio-3/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/basics-png.dir
+/Users/trastrascasa/Dropbox/ESNE/TERCERO/DESARROLLO MOVIL/pTrascasa_vdj33_galaga/projects/android-studio-3/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/basics-gaming.dir
+/Users/trastrascasa/Dropbox/ESNE/TERCERO/DESARROLLO MOVIL/pTrascasa_vdj33_galaga/projects/android-studio-3/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/basics-base.dir

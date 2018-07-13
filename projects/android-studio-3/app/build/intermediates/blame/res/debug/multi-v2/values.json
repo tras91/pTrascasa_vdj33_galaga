@@ -1,0 +1,70 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/trastrascasa/Dropbox/ESNE/TERCERO/DESARROLLO MOVIL/pTrascasa_vdj33_galaga/projects/android-studio-3/C:\\Users\\USUARIO\\Dropbox\\ESNE\\TERCERO\\DESARROLLO MOVIL\\pTrascasa_vdj33_galaga\\projects\\android-studio-3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "/Users/trastrascasa/Dropbox/ESNE/TERCERO/DESARROLLO MOVIL/pTrascasa_vdj33_galaga/projects/android-studio-3/C:\\Users\\USUARIO\\Dropbox\\ESNE\\TERCERO\\DESARROLLO MOVIL\\pTrascasa_vdj33_galaga\\projects\\android-studio-3\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "53",
+                        "endOffsets": "66"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "53",
+                        "endOffsets": "104"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/trastrascasa/Dropbox/ESNE/TERCERO/DESARROLLO MOVIL/pTrascasa_vdj33_galaga/projects/android-studio-3/C:\\Users\\USUARIO\\Desktop\\pTrascasa_vdj33_galaxian\\projects\\android-studio-3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "/Users/trastrascasa/Dropbox/ESNE/TERCERO/DESARROLLO MOVIL/pTrascasa_vdj33_galaga/projects/android-studio-3/C:\\Users\\USUARIO\\Desktop\\pTrascasa_vdj33_galaxian\\projects\\android-studio-3\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "53",
+                        "endOffsets": "66"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "53",
+                        "endOffsets": "104"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/trastrascasa/Dropbox/ESNE/TERCERO/DESARROLLO MOVIL/pTrascasa_vdj33_galaga/projects/android-studio-3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/trastrascasa/Dropbox/ESNE/TERCERO/DESARROLLO MOVIL/pTrascasa_vdj33_galaga/projects/android-studio-3/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "53",
+                        "endOffsets": "66"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "53",
+                        "endOffsets": "104"
+                    }
+                }
+            ]
+        }
+    ]
+}
